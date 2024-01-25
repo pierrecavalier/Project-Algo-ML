@@ -1,4 +1,4 @@
-# ResNet
+# Project Algorithm Machine Learning
 Project as part of the "AI Methods" course taught by [Yvenn Amara](https://www.yvenn-amara.com/teaching/) in the first year of the [Mathematics and Artificial Intelligence master](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m1/mathematiques-et-intelligence-artificielle/)'s program. 
 
 Use of supervised learning methods, in particular deep learning, to predict games of the online game Ligue of legends as a function of various parameters more or less advanced in the game.
